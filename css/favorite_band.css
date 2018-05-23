@@ -1,0 +1,20 @@
+.wu {
+  font-family: monospace;
+  color: black;
+  text-align: center;
+  font-size: 75;
+}
+
+.wu:hover {
+  color: yellow;
+}
+
+.column {
+    width: 300px;
+    float: left;
+  }
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
