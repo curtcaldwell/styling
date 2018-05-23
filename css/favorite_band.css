@@ -8,7 +8,9 @@
 .wu:hover {
   color: yellow;
 }
-
+img {
+  padding: 6px;
+}
 .column {
     width: 300px;
     float: left;
@@ -18,3 +20,7 @@
   width: 30%;
   float: right;
   background-color: yellow;
+  border-style: ridge;
+  padding: 6px;
+  margin: 9px;
+}

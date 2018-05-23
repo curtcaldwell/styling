@@ -3,6 +3,8 @@
   font-family: fantasy;
   font-size: 45px;
   text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .About {
@@ -10,4 +12,6 @@
   font-family: monospace;
   font-size: 45px;
   text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }

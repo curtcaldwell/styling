@@ -44,3 +44,29 @@ img.intro {
   width: 300px;
   float: left;
 }
+.my-class {
+  border: 2px solid green;
+  padding: 4px;
+  margin: 12px;
+  background-color: orange;
+}
+
+.digital p {
+  background-color: red;
+}
+
+.analog p {
+  background-color: yellow;
+}
+
+.digital p a {
+  font-weight: bold;
+}
+
+.analog p a {
+  font-style: italic;
+}
+
+a {
+  font-weight: normal;
+}
