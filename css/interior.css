@@ -1,0 +1,48 @@
+body {
+  background-color: rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #48D1CC;
+  font-size: 45px;
+}
+
+h1:hover {
+  color: gray;
+}
+
+.column {
+  width: 485px;
+  float: left;
+  text-align: center;
+}
+
+img {
+  width: 75%;
+}
+
+.in {
+  color: #48D1CC;
+}
+
+p {
+  font-family: baskerville;
+  font-size: 25px;
+  color: gray;
+}
+
+.icons {
+ text-align: center;
+ font-size: 40px;
+ color: black;
+ padding: 12em;
+ box-sizing:border-box;
+ margin: 10px 0 10px 0;
+}
+.icons a {
+ color: #48D1CC;
+}
+a:hover {
+ color: gray;
+}
